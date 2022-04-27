@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Boring Application</string>
+    <string name="button_roll_text">Roll</string>
+    <string name="editText_min_hint">min.</string>
+    <string name="editText_max_hint">max.</string>
+    <string name="textView_result_text">Let\'s Roll!</string>
+    <string name="editText_min_defaultText">1</string>
+    <string name="editText_max_defaultText">100</string>
+    <string name="button_setDefault_text">Set Default</string>
+    <string name="snackBar_emptyFieldMessage">min or max cannot be empty!</string>
+    <string name="snackBar_invalidRangeMessage">min cannot be bigger than max!</string>
+    <string name="default_min_value">1</string>
+    <string name="default_max_value">100</string>
+</resources>
